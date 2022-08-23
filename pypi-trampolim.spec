@@ -4,7 +4,7 @@
 #
 Name     : pypi-trampolim
 Version  : 0.1.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/a0/2a/9b3c1480ec3a1b22de95b3395f81da7b5039259d27253a5fa10e7502a48f/trampolim-0.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a0/2a/9b3c1480ec3a1b22de95b3395f81da7b5039259d27253a5fa10e7502a48f/trampolim-0.1.0.tar.gz
 Summary  : A modern Python build backend
